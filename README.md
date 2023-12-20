@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects related to data science, data visualization and nlp.
 
 Feel free to reach out to me if you have any exciting projects that require my expertise. I’m eager to apply my knowledge and skills to tackle real-world problems and deliver insightful solutions. Let’s work together to create something amazing!
-Email: sarfarazahmedbehan2@gmail.com
+Email: sarfaraz.ahmed@xflowtech.net
 
 <!---
 Sarfaraz021/Sarfaraz021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
