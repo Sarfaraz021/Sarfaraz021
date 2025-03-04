@@ -1,7 +1,6 @@
 # 👨‍💻 About Me:
 
 - 👋 Hello! I'm Sarfaraz Ahmed, an AI Engineer specializing in transforming data into actionable insights.
-- 🚀 Currently, I am working at Xflow Research Inc., Islamabad, where I leverage AI technologies to drive innovation.
 - 💡 With expertise in machine learning, advanced NLP techniques, and data analysis, I'm passionate about solving real-world problems through cutting-edge technology.
 - 🌟 Join me on this data-driven adventure as we explore the limitless possibilities of AI!
 
