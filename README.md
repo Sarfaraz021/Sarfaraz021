@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sarfaraz Ahmed
 
-🤖 **AI Engineer** at **Chirp** | Specializing in intelligent agents and automation
+🤖 **AI Software Engineer** at **Chirp** | Specializing in intelligent agents and automation
 
 ## 🔭 What I'm Working On
 
